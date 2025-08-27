@@ -27,7 +27,7 @@ Desarrollado en equipo durante el bootcamp de Soy Henry.
 
 ## 📫 Contacto
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Camilo-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/tuusuario)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Camilo-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/ivan-guarnizo)
 
 ---
 
