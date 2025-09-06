@@ -25,7 +25,8 @@ Incluye funcionalidades como:
 
 ## 🛒 E-commerce Backend – Proyecto Integrador Módulo 4
 
-Este proyecto corresponde al **backend de una aplicación de e-commerce**, desarrollado con **NestJS** y una arquitectura robusta y escalable para gestionar usuarios, productos y órdenes.  
+Este proyecto corresponde al **backend de una aplicación de e-commerce**, desarrollado con **NestJS** y una arquitectura robusta y escalable para gestionar usuarios, productos y órdenes.
+
 Garantiza **seguridad, eficiencia y confiabilidad** en los procesos internos de la plataforma.  
 
 ### 🔧 Tecnologías utilizadas  
