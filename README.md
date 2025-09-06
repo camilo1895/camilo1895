@@ -3,6 +3,7 @@
 Soy un desarrollador web **Full Stack** con formación en el bootcamp intensivo de **Soy Henry** y base técnica en **Programación de Software**.  
 
 💡 Me apasiona crear soluciones funcionales, aprender nuevas tecnologías y trabajar con buenas prácticas tanto en el **backend** como en el **frontend**.  
+
 Mi enfoque principal está en tecnologías como **NestJS**, **TypeORM**, **PostgreSQL**, **Docker** y **TypeScript**.  
 
 ---
@@ -11,6 +12,7 @@ Mi enfoque principal está en tecnologías como **NestJS**, **TypeORM**, **Postg
 
 ### 🩺 [Vitta – Plataforma de nutrición](https://github.com/camilo1895/pfvitta)  
 Aplicación web Full Stack que conecta pacientes con nutricionistas verificados.  
+
 Incluye funcionalidades como:  
 - Autenticación con **Auth0**  
 - Agendamiento de turnos  
@@ -27,12 +29,14 @@ Este proyecto corresponde al **backend de una aplicación de e-commerce**, desar
 Garantiza **seguridad, eficiencia y confiabilidad** en los procesos internos de la plataforma.  
 
 ### 🔧 Tecnologías utilizadas  
+
 - **Backend:** NestJS + TypeORM + PostgreSQL  
 - **Autenticación:** JWT  
 - **Infraestructura:** Docker Desktop + Render  
 - **Documentación de API:** Swagger  
 
 ### 📂 Módulos implementados  
+
 - Registro y gestión de usuarios  
 - Autenticación segura con JWT  
 - CRUD de productos  
